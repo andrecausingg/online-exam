@@ -21,7 +21,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Procedures
-
+- Framework to be used is React+Vite for frontend and Laravel for backend.
 - Clone this repository to your local machine.
   * Check in to the master the initial files of the framework you prefer to use
     * If possible use the latest ReactJs for frontend and Laravel for backend
